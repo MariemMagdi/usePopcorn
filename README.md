@@ -2,12 +2,6 @@
 
 **usePopcorn** is a React web application for movie enthusiasts to search, view, and manage a personal list of watched movies with custom ratings. Utilizing a modern React stack including hooks for state and effects, this project demonstrates a practical use-case of integrating APIs, managing local storage, and handling user interactions in a scalable way.
 
-- ![Screenshot 2024-04-12 180431](https://github.com/MariemMagdi/usePopcorn/assets/104202307/dcab8954-a1a3-45b5-84d9-ad9d90b80e9a)
-
-- ![Screenshot 2024-04-12 180525](https://github.com/MariemMagdi/usePopcorn/assets/104202307/ee8a74f3-7416-4772-b857-d6722b16f334)
-
-- ![Screenshot 2024-04-12 180553](https://github.com/MariemMagdi/usePopcorn/assets/104202307/592c089c-eb70-469a-bd0a-a54dacc4accb)
-
 
 ## Features
 
